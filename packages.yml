@@ -1,3 +1,9 @@
 packages:
-  - git: "https://github.com/kzzzr/dbtvault.git"
-    revision: master
+#  - git: "https://github.com/kzzzr/dbtvault.git"
+#    revision: master
+
+#   - git: "https://github.com/Datavault-UK/dbtvault.git"
+#     revision: release/0.7.6-b1
+
+   - git: "https://github.com/asergeenko/dbtvault.git"
+     revision: release/0.7.6-b1

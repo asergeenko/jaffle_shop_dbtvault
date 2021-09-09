@@ -43,4 +43,12 @@ models:
       sats:
         tags:
           - 'satellite'
-
+    pit:
+      materialized: view
+      tags:
+        - 'pit'
+    marts:
+        tags:
+          - 'marts'
+        materialized: view
+    
